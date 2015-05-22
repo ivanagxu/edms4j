@@ -1,0 +1,1 @@
+EDMS for java, facilitate the management of e-Document storing, grouping, sharing, reuse and so on.
